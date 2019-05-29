@@ -5,8 +5,6 @@ import random
 import time
 score = 0
 
-# to do list
-
 #prints the instructions
 print ('This is the memory tile game.\n The goal is to match two pairs from the tile of the same letter.\n The asterisks represent the place of the tile.\n The rows are the x-coordinates, while the columns are the y-coordinates.\n Type (x,y) coordinates of the tiles to match them with another pair.\n')
 time.sleep(2)
